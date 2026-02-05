@@ -1,2 +1,1 @@
-# deeksha-ravikumar
 Hello world
